@@ -18,14 +18,14 @@ A minimal and efficient To-Do List application built using **React (with Vite)**
 [./public/ss3.png)]
 ## Installation
 Follow these steps to run the app locally:
-# Clone the repository
+### Clone the repository
 git clone https://github.com/Kajal-Raghav123/Task_app.git
-# Navigate to the project directory
+### Navigate to the project directory
 cd to-do-app
-# Install dependencies
+### Install dependencies
 npm install
 
-# Start the development server
+### Start the development server
 npm run dev
 
 ## Live Demo
