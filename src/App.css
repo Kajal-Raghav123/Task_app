@@ -1,0 +1,61 @@
+
+
+h1 {
+  text-align: center;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-container > input {
+  width: 300px;
+  height: 30px;
+  font-size: 1.25rem;
+}
+.input-container > button {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  font: 1.5rem;
+  background-color: rgb(193, 236, 66);
+  margin-top: 10px;
+}
+
+.container {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+.todo {
+  width: 500px;
+  font-size: 1.2rem;
+  background-color: rgb(232, 155, 155);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  padding: 0px 5px;
+}
+.actions > button {
+  background-color: crimson;
+  border-radius: 5px;
+  color: whitesmoke;
+  width: 75px;
+  height: 30px;
+  margin-left: 10px;
+  font: 1.05rem;
+}
+body {
+  background-image: url('/bg1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+}
