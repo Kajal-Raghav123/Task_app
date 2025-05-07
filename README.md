@@ -13,9 +13,9 @@ A minimal and efficient To-Do List application built using **React (with Vite)**
 - Real-time task state updates using React state management
 ## Screenshots
 - Preview the app
-![Alt text](./public/ss1.png)
-![Alt text](./public/ss2.png)
-![Alt text](./public/ss3.png)
+![Something went wrong](./public/ss1.png)
+![Something went wrong](./public/ss2.png)
+![Something went wrong](./public/ss3.png)
 ## Installation
 Follow these steps to run the app locally:
 ### Clone the repository
