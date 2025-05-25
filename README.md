@@ -30,3 +30,7 @@ npm run dev
 
 ## Live Demo
 http://localhost:5173/
+ 
+![Alt text](./public/ss1.png)
+![Alt text](./public/ss2.png)
+![Alt text](./public/ss3.png)
