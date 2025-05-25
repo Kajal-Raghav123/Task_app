@@ -11,6 +11,7 @@ A minimal and efficient To-Do List application built using **React (with Vite)**
 - Add, update, and delete tasks
 - Mark tasks as completed
 - Real-time task state updates using React state management
+<<<<<<< HEAD
 
 ## Installation
 Follow these steps to run the app locally:
@@ -22,7 +23,31 @@ cd to-do-app
 npm install
 
 ### Start the development server
+=======
+## Screenshots
+- Preview the app
+[./public/ss1.png)]
+[./public/ss2.png)]
+[./public/ss3.png)]
+## Installation
+Follow these steps to run the app locally:
+# Clone the repository
+git clone https://github.com/Kajal-Raghav123/Task_app.git
+# Navigate to the project directory
+cd to-do-app
+# Install dependencies
+npm install
+
+# Start the development server
+>>>>>>> master
 npm run dev
 
 ## Live Demo
 http://localhost:5173/
+<<<<<<< HEAD
+=======
+ 
+![Alt text](./public/ss1.png)
+![Alt text](./public/ss2.png)
+![Alt text](./public/ss3.png)
+>>>>>>> master

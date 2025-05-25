@@ -18,10 +18,18 @@ h1 {
 .input-container > button {
   width: 40px;
   height: 40px;
+<<<<<<< HEAD
   border-radius: 20px;
   font: 1.5rem;
   background-color: rgb(193, 236, 66);
   margin-top: 10px;
+=======
+  border-radius: 30px;
+  font: 1.5rem;
+  background-color: rgb(193, 236, 66);
+  margin-top: 10px;
+
+>>>>>>> master
 }
 
 .container {
@@ -39,7 +47,13 @@ h1 {
   justify-content: space-between;
   align-items: center;
   border-radius: 10px;
+<<<<<<< HEAD
   padding: 0px 5px;
+=======
+  padding: 12px;
+  position: relative;
+  
+>>>>>>> master
 }
 .actions > button {
   background-color: crimson;
@@ -48,7 +62,13 @@ h1 {
   width: 75px;
   height: 30px;
   margin-left: 10px;
+<<<<<<< HEAD
   font: 1.05rem;
+=======
+ 
+  font: 1.05rem;
+  
+>>>>>>> master
 }
 body {
   background-image: url('/bg1.jpg');
@@ -59,3 +79,18 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+<<<<<<< HEAD
+=======
+.checkin{
+  width: 55px;
+  height: 22px;
+  
+}
+.do-list{
+  position: absolute;
+  
+  left: 15%;
+  
+  
+}
+>>>>>>> master
